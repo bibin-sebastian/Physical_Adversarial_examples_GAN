@@ -11,3 +11,9 @@ For finer adversarial attacks, the physical transformation itself causes a high 
 
 [Presentation](https://docs.google.com/presentation/d/12EdbAu67JD_41Jx1GSk2cmZ__yXMpJsvRCzBytWe93Q/edit#slide=id.g46f8c59f95_0_5)
 
+
+**Acknowledgement**<br>
+This repo is almost entirely made using the code by researchers -  Pouya Samangouei, Maya Kabkab, Rama Chellappa on their work Defense-GAN
+https://arxiv.org/abs/1805.06605 <br>
+https://github.com/kabkabm/defensegan
+
